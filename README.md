@@ -6,8 +6,7 @@
         <code>I like learn new things. ❤</code>
         <code>DBZ lover. 😉</code>
        <code>I spend my free time on <a href="https://t.me/rutwikdhawle">Linkedin</a>. 😇</code>
-       <img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/coding.gif">
-        <b>Skills :</b> <code>Python</code> | <code>C</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
+        <br><b>Skills :</b> <code>Python</code> | <code>C</code> | <code>Java</code> | <code>HTML</code> | <code>CSS</code>
         <br><img src="https://github-readme-stats.vercel.app/api?username=rutwikdhawle&include_all_commits=true&show_icons=true">
         <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutwikdhawle&layout=compact">
         <br><img src="https://gpvc.arturio.dev/rutwikdhawle">
