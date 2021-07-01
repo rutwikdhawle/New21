@@ -1,5 +1,5 @@
 <div align="center">
-        <h2>Hey there <img src="https://github.com/rushiranpise/rushiranpise/blob/master/gifs/Hi.gif" width="30px">, My Name Is Rutwik Dhawle.</h2>
+        <h2>Hey there, My Name Is Rutwik Dhawle.</h2>
        <div align="center" width="50">
        <code>I'm a Computer Science Engineer. 😎</code>
         <code>I love programming. ❤</code>
